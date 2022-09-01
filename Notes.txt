@@ -1,0 +1,2 @@
+AWS Deployment - 
+Backend - ssh -i ~/Downloads/amber-aws-deploy.pem ubuntu@ec2-3-84-124-45.compute-1.amazonaws.com
